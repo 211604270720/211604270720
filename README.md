@@ -19,8 +19,10 @@
 ### 
 
 ### 💡 Основные компетенции 💡
-- 💻 Инструменты: PostgresSQL, Python
-◻️ Skills: 
+* 💻 Инструменты: PostgresSQL, Python
+  
+◻️ Skills:
+
   ◻️ Hard skills
     * Data Preprocessing; 
     * Data Analysis;
