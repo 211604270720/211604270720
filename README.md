@@ -23,7 +23,7 @@
   
 ◻️ Skills:
 
-  ◻️ Hard skills
+  * Hard skills
   
     * Data Preprocessing; 
     * Data Analysis;
