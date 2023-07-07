@@ -49,5 +49,5 @@
 ### До свидания, друг! 👋 🍀
 
 Свяжись со мной
-- [Telegram]()
+- [Telegram](https://t.me/max_sim_sma)
 - [Kaggle]()
