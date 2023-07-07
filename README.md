@@ -7,7 +7,7 @@
   - Специальность: ЭКСПЕРТИЗА И УПРАВЛЕНИЕ НЕДВИЖИМОТЬЮ
   - 📐 Квалификация специалиста: ИНЖИНЕР
 * 🎓
-* 💻 
+*  
 * На досуге
 * 
 * 🏃   📖
@@ -19,8 +19,8 @@
 ### 
 
 ### 💡 Основные компетенции 💡
-- Инструменты: PostgresSQL, Python
-🔷 Skills: 
+- 💻 Инструменты: PostgresSQL, Python
+⚪🔷 Skills: 
   🔸 Hard skills
     * Data Preprocessing; 
     * Data Analysis;
