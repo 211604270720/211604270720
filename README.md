@@ -69,6 +69,7 @@
     * 
 
 🎓 -  в постоянном развитии
+
 ---    
 
 ### ⚡️ В настоящее время ⚡️
@@ -95,10 +96,10 @@
 ### До свидания, друг! 👋 🍀
 
 Свяжись со мной
-- [Telegram](https://t.me/max_sim_sma)
-- [Kaggle](https://www.kaggle.com/maksimsimakov)
-
-
+* [Telegram](https://t.me/max_sim_sma)
+* [Kaggle](https://www.kaggle.com/maksimsimakov)
+*
+---
 
 
 
