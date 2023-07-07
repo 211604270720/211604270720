@@ -24,6 +24,7 @@
 ◻️ Skills:
 
   ◻️ Hard skills
+  
     * Data Preprocessing; 
     * Data Analysis;
     * Mathematical statistics;
