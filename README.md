@@ -1,31 +1,40 @@
-### Привет! 👋
-
-### ✨ Обо мне за 30 секунд ✨ 
+# Привет, друг! 👋
+---
+===
+### ✨ Немного обо мне ✨ 
 * 🎓 Образование: НОВОСИБИРСКИЙ ГОСУДАРСТВЕННЫЙ АРХИТЕКТУРНО-СТРОИТЕЛЬНЫЙ УНИВЕРСИТЕТ (СИБСТРИН)
   - Специальность: ЭКСПЕРТИЗА И УПРАВЛЕНИЕ НЕДВИЖИМОТЬЮ
   - 📐 Квалификация специалиста: ИНЖИНЕР
 * 🎓
 * 💻 
 * 
-* 🏃  📖
+* 🏃 На досуге  📖
+* 👨‍💻👩‍🎓💪 Знания сила
 
-### 📚 Проекты 📚
+### 📚 Мои Проекты 📚
 
-* Нажми [сюда]() чтобы посмотреть мои проекты
+* 👨‍💼📊📈📁Нажми [сюда]() чтобы посмотреть мои проекты
+### 
 
 ### 💡 Основные компетенции 💡
 - Инструменты: PostgresSQL, Python
 🔷 Skills: 
-    🔸 Hard skills
-    * Data Preprocessing 
-    * Data Analysis
+  🔸 Hard skills
+    * Data Preprocessing; 
+    * Data Analysis;
+    * Mathematical statistics;
+    * Relational Databases;
+    * Dashboard Design and Development;
+    * Exploratory Data Analysis;
     * 🎓 Machine Learning
     * 🎓 Deep Learning;
-    🔹 Soft skills
+    * 
+  🔹 Soft skills
+    *
     
 
 ### ⚡️ В настоящее время ⚡️
-- □
+- □ 💻📱🧑🏠
 - ◉〇
 - 🧑🏼‍🎓
 - 
